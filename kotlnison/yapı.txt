@@ -1,0 +1,17 @@
+ToDoApp/
+│
+├── app/
+│   ├── src/main/
+│   │   ├── java/ (burada Kotlin dosyaları olacak)
+│   │   │   └── com/example/todoapp/
+│   │   │       ├── MainActivity.kt
+│   │   ├── res/
+│   │   │   ├── layout/
+│   │   │   │   ├── activity_main.xml
+│   │   │   │   ├── item_todo.xml
+│   │   │   │
+│   │   ├── AndroidManifest.xml
+│   │
+│   └── build.gradle (Module level)
+│
+└── build.gradle (Project level)
